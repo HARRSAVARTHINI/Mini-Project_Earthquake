@@ -1,4 +1,4 @@
-<hi><b>Forecasting Earthquake aftershock locations</h1></b>
+<h3><b>Forecasting Earthquake aftershock locations</h3></b>
 
 <P><STRONG>Done By :HARRSAVARTHINI K</STRONG></P>
 <p> The main objective of this project is to find the location of the Earthquake. By using Latitude and Longitude, the location will be marked in global chart.</p>
